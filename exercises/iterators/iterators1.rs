@@ -8,10 +8,10 @@
 //
 // Execute `rustlings hint iterators1` or use the `hint` watch subcommand for a
 // hint.
-
+fn main() {}
 
 #[test]
-fn main() {
+fn test_main() {
     let my_fav_fruits = vec!["banana", "custard apple", "avocado", "peach", "raspberry"];
 
     let mut my_iterable_fav_fruits = my_fav_fruits.iter();   // TODO: Step 1
